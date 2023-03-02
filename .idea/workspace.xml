@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3bf0cd0-90a2-4614-b7d8-51e656899b0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/src/main/java/com/example/springmodule/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/src/main/java/com/example/springmodule/SpringmoduleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/src/main/resources/LIB1-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/src/test/java/com/example/springmodule/SpringmoduleApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f3bf0cd0-90a2-4614-b7d8-51e656899b0f" name="Changes" comment="firstCommit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677774417693</updated>
     </task>
+    <task id="LOCAL-00001" summary="firstCommit">
+      <created>1677785961795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677785961795</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstCommit" />
   </component>
 </project>
