@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3bf0cd0-90a2-4614-b7d8-51e656899b0f" name="Changes" comment="comitForYura">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springmodule/src/main/java/com/example/springmodule/SwaggerConfig.java" afterDir="false" />
+    <list default="true" id="f3bf0cd0-90a2-4614-b7d8-51e656899b0f" name="Changes" comment="anothercommit">
+      <change afterPath="$PROJECT_DIR$/springmodule/swagger.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springmodule/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springmodule/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springmodule/src/main/java/com/example/springmodule/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmodule/src/main/java/com/example/springmodule/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmodule/src/main/java/com/example/springmodule/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springmodule/src/main/java/com/example/springmodule/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmodule/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springmodule/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmodule/src/main/resources/templates/error.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/springmodule/src/main/resources/templates/error.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springmodule/src/main/resources/templates/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/springmodule/src/main/resources/templates/error.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +46,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\maeven\x\projeckt\springmodule" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678391035149</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="anothercommit">
+      <created>1678394520546</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678394520546</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +118,7 @@
     <MESSAGE value="finalcommit" />
     <MESSAGE value="finalfinalfinalfinalcommit" />
     <MESSAGE value="comitForYura" />
-    <option name="LAST_COMMIT_MESSAGE" value="comitForYura" />
+    <MESSAGE value="anothercommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="anothercommit" />
   </component>
 </project>
